@@ -1,0 +1,19 @@
+.col-sm-6 img{
+    width: 150px;
+    height: 150px;
+    margin: 2px 2px 2px 2px;
+}
+.col-lg-8{
+    overflow: hidden;
+    padding-right: 0px;
+    padding-left: 0px
+}
+.col-lg-8 img{
+    height:80%;
+    width:90%
+}
+.navbar-header img {
+height: 60px;
+    width: 70px;
+    zoom: 98%;
+}
